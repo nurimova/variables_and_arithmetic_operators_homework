@@ -1,5 +1,7 @@
-# Create a variable 'num_one'  and assign it the value of the int 5.
+# a degan o'zgaruvchini yarating va unga 12 qiymatini bering.
 
-# Create a variable 'num_two'   and assign it the value of the int 4.
+# b degan o'zgaruvchini yarating va unga 53 qiymatini bering.
 
-# Create a variable 'variable_total' and assign it the sum of  'num_one' and 'num_two'.
+# c degan o'zgaruvchini yarating va unga 26 qiymatini bering.
+
+#  total degan o'zgaruvchini yarating va a, b va c qiymatlaring yig'indisini hisoblang.
