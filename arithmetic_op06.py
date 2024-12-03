@@ -1,7 +1,7 @@
-# Create a variable "a"  and assign it the value of the int 7.
+# a o'zgaruvchisini yarating va unga 11 butun son qiymatini bering
 
-# Create a variable "b"  and assign it the value of the int 3.
+# b o'zgaruvchisini yarating va unga 7 butun son qiymatini bering
 
-# Create a variable "c"  and assign it the value of the int 5.
+# c o'zgaruvchisini yarating va unga 12 butun son qiymatini bering
 
-# Create a variable called "answer" and assign it the sum of a, b and c
+# total o'zgaruvchisini yarating va total = c + b//a ni hisoblang
