@@ -1,5 +1,7 @@
-# Create a variable "a"  and assign it the value of the int 72.
+# a o'zgaruvchisini yarating va unga 6 butun son qiymatini bering
 
-# Create a variable "b"  and assign it the value of the int 9.
+# b o'zgaruvchisini yarating va unga 4 butun son qiymatini bering
 
-# Create a variable called "answer" and assign it the division of a by b.
+# c o'zgaruvchisini yarating va unga 7 butun son qiymatini bering
+
+# total o'zgaruvchisini yarating va total = b + a%c ni hisoblang
