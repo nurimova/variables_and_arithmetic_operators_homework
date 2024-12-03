@@ -1,9 +1,9 @@
-# Create a variable "a"  and assign it the value of the int 8.
+# "a" o'zgaruvchisini yarating va unga 8 butun son qiymatini bering
 
-# Create a variable "b"  and assign it the value of the int 3.
+# "b" o'zgaruvchisini yarating va unga 3 butun son qiymatini bering
 
-# Create a variable "c"  and assign it the value of the int 2.
+# "c" o'zgaruvchisini yarating va unga 2 butun son qiymatini bering
 
-# Create a variable "d"  and assign it the value of the int 4.
+# "d" o'zgaruvchisini yarating va unga 4 butun son qiymatini bering
 
-# Create a variable called 'answer' and assign it the expression value: a+b - cd
+# "total" o'zgaruvchisini yarating va unga ifodaning qiymatini bering: a + b - c * d (answer = a + b - c * d) ni hisoblang
