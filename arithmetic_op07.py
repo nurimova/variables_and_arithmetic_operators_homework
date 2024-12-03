@@ -1,7 +1,7 @@
-# Create a variable "a"  and assign it the value of the int 12.
+# a o'zgaruvchisini yarating va unga 2 butun son qiymatini bering
 
-# Create a variable "b"  and assign it the value of the int 4.
+# b o'zgaruvchisini yarating va unga 10 butun son qiymatini bering
 
-# Create a variable "c"  and assign it the value of the int 1.
+# c o'zgaruvchisini yarating va unga 10 butun son qiymatini bering
 
-# Create a variable called 'answer' and assign it the expression value: a - b + c
+# total o'zgaruvchisini yarating va total = (b**a)//10 ni hisoblang
