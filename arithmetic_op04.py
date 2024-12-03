@@ -1,5 +1,7 @@
-# Create a variable "a"  and assign it the value of the int 5.
+# a o'zgaruvchisini yarating va unga 8 butun son qiymatini bering
 
-# Create a variable "b"  and assign it the value of the int 4.
+# b o'zgaruvchisini yarating va unga 3 butun son qiymatini bering
 
-# Create a variable called 'answer' and assign it the multiplication of a and b.
+# c o'zgaruvchisini yarating va unga 5 butun son qiymatini bering
+
+# total o'zgaruvchisini yarating va total = a + b/c ni hisoblang
